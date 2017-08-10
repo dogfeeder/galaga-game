@@ -1,0 +1,17 @@
+{
+  "name": "example-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all": "node_modules/.bin/webpack --display-error-details"
+  },
+  "author": "Excalibur.js Team",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "excalibur": "next",
+    "ts-loader": "^1.3.3",
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0"
+  }
+}
